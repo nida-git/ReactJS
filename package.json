@@ -16,6 +16,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx parcel index.html", 
+    "start": "npx parcel index.html",
     "built": "npx parcel build index.html"
   },
   "dependencies": {
