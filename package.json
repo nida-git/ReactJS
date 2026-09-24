@@ -1,0 +1,28 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nida-git/ReactJS#readme",
+  "bugs": {
+    "url": "https://github.com/nida-git/ReactJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nida-git/ReactJS.git"
+  },
+  "license": "ISC",
+  "author": "\"nida\"",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx parcel index.html", 
+    "built": "npx parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
